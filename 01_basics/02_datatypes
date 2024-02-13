@@ -1,0 +1,12 @@
+// Numbers
+let age=20;
+
+//String
+let companyName="Mindpath tech";
+
+//boolean 
+let x=true;
+
+let res=age+companyName;
+console.log(res)
+console.log(typeof res)  // string
