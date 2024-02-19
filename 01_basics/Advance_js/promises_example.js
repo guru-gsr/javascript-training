@@ -1,13 +1,4 @@
-// function async()
-// {
-//     return new Promise((resolve,reject) => {
-//         setTimeout(() =>{
-//             console.log("data1");
-//             resolve("success");
-//         },4000);
-//     });
-    
-// }
+
 
 
 
